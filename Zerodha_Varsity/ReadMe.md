@@ -1,4 +1,4 @@
-# Zerodha Varisty 
+# Zerodha Varsity 
 
 ## Intro to Stock Markets
 
