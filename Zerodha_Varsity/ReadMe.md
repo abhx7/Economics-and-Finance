@@ -1,7 +1,9 @@
 # Zerodha Varsity 
 
-## Intro to Stock Markets
+# Sections
 
-### Doubts
+- Intro to Stock Markets
+- Technical Analysis
 
-How profitable is short selling? MIS Orders? CO orders? need to understand the intricacies
+PDFs, Videos and --?
+
