@@ -16,7 +16,13 @@
   - Price moves in trends
   - History tends to repeat itself
 -----------------
-- 
+- Nifty CGAR Return to decide realistic expectations
+- Opportunities don't come by daily; Everyday does not give profits
+- Setting Expectations
+  - Trades 
+  - Returns per trade (smaller side from TA)
+  - Holding period (few minutes to weeks or months)
+  - Risk management : Trade means Entry and Exit intent, exit when trade goes against (like Stop Loss)
 
 # Tidbits
 
