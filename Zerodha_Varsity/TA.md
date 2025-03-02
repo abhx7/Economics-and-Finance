@@ -23,9 +23,16 @@
   - Returns per trade (smaller side from TA)
   - Holding period (few minutes to weeks or months)
   - Risk management : Trade means Entry and Exit intent, exit when trade goes against (like Stop Loss)
+------------
+-  Chart Types
+-  Line chart, let's say plotting closing prices for each day; it shows the general trend but the in-day prie fluctuation is missing
+-  To fix this we have the OLHC bar chart; over long term, it might be straining to look at in-day price change
+-  Candlestick chart - if it's a bullish day (up), the bar is green and for a bearish day (down), the bar is red; bar is the space between open and close price
 
 # Tidbits
 
 - What is the Dow Jones Industrial Average?
 
-- 
+- OHLC Bar Chart? Candlestick Chart?
+
+- Bull-ish day or Bear-ish day?
