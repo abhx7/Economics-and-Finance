@@ -28,6 +28,14 @@
 -  Line chart, let's say plotting closing prices for each day; it shows the general trend but the in-day prie fluctuation is missing
 -  To fix this we have the OLHC bar chart; over long term, it might be straining to look at in-day price change
 -  Candlestick chart - if it's a bullish day (up), the bar is green and for a bearish day (down), the bar is red; bar is the space between open and close price
+-------------
+- Timeframes - Monthly, Weekly, Daily, Intrday (most used ones)
+- Monthly is used by Investors for long term as you can see the overall trend throguh decades (12 candle bars a year)
+- Weekly is used by Investor or  Positional Traders, it can also give a bit of overall trend (52 candle bars a year)
+- Daily is used by Swing traders (about 252 candles per year)
+- Intraday is divided in 20 min, 15 min and 5 min
+- Lower the time frame, more is the information and the candles
+- Multi timeframe usage to develop a good pov as the trend can be different across the timeframes
 
 # Tidbits
 
