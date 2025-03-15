@@ -46,8 +46,20 @@
   - 
   - Hammer pattern (more buying interest insipte of huge selling; usually in short term this means it'll keep growing)
 -----
-- 
-
+- Single Candlestick patterns {NEED TO GO OVER THIS]
+  - 1. Marubozu (no or little upper and lower shadow, closing or opening prices are average of the last bit of time relative to the time frame being discussed)
+      - Bullish - open = low, close = high; green
+      - Bearish - open = high, close =  low; red
+  - If bullish marubozu in an uptrend could mean its getting stronger same for bearish marubozu in downtrend, as well as vice versa
+  - Uptrend/Bullish - Buyers overpower seller, increase in demand
+  - 2. Paper Umbrella 
+         - Hammer -  bullish in downtrend ; small body and long wick below;( its a reversal pattern expectation indicator)
+         - Hanging Man - bullish in uptrend; small body and long wick below;
+   - How to trade? Example, if after hammer, the price goes below its low, then hammer didnt work vice versa for hanging man
+  - 3. Shooting Star - Hammer inverted, bearish in an uptrend; small body and long wick upper; ( its a reversal pattern expectation indicator)
+       - How to trade? Example, if it goes below the low after then reversal liekly to happend and if price goes above hgih, then shooting star has failed
+  
+   
 # Tidbits
 
 - What is the Dow Jones Industrial Average?
@@ -55,3 +67,5 @@
 - OHLC Bar Chart? Candlestick Chart?
 
 - Bull-ish day or Bear-ish day?
+
+- Psychological is imprinted on price action is the core thing needed to be understood
