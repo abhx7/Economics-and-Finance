@@ -58,7 +58,18 @@
    - How to trade? Example, if after hammer, the price goes below its low, then hammer didnt work vice versa for hanging man
   - 3. Shooting Star - Hammer inverted, bearish in an uptrend; small body and long wick upper; ( its a reversal pattern expectation indicator)
        - How to trade? Example, if it goes below the low after then reversal liekly to happend and if price goes above hgih, then shooting star has failed
-  
+----
+- Multiple Candlestick patterns
+  -  Engulfing pattern (2 candlestick) - reversal pattern indicator, englulfs the previous day body (if also the wick is engulfed, much stronger)
+     - Bullish - D2 Open < D1 Cloe, D2 Close > D1 Open, previously bearish
+     - Bearish - - D2 Open > D1 Cloe, D2 Close < D1 Open, previously bullish
+     - How to trade? (Watch the video)
+   - Piercing Pattern (2 candlestick) - bearish pattern ongoing, start market gaps down a bit but then bull gain slgiht control but doesn't engulf, a reversal indicator
+   - Dark Cloud Cover (2 candlestick) - bullish pattern ongoing, start market gaps up a bit but bears gain slgiht control but doesn't engulf, a reversal indicator
+   - Morning Star (3 candlestick) - prior down trend, first bearish bar, 2nd bar is doji or spinning top, D3 closes above/near D1 open , now bulls in control
+   - Evening Star (3 candlestick) - prior up trend, first bullish  bar, 2nd bar is doji or spinning top, D3 closes below/near D1 open , now bears in control
+---
+
    
 # Tidbits
 
@@ -69,3 +80,5 @@
 - Bull-ish day or Bear-ish day?
 
 - Psychological is imprinted on price action is the core thing needed to be understood
+
+- Bullish and Bearish Harami
