@@ -16,7 +16,7 @@
   - Price moves in trends
   - History tends to repeat itself
 -----------------
-- Setting Realistic Expectations 
+**Setting Realistic Expectations** 
   - Nifty CGAR Return to decide realistic expectations
   - Opportunities don't come by daily; Everyday does not give profits
   - Setting Expectations
@@ -25,12 +25,12 @@
     - Holding period (few minutes to weeks or months)
     - Risk management : Trade means Entry and Exit intent, exit when trade goes against (like Stop Loss)
 ------------
--  Chart Types
+**Chart Types**
   -  Line chart, let's say plotting closing prices for each day; it shows the general trend but the in-day prie fluctuation is missing
   -  To fix this we have the OLHC bar chart; over long term, it might be straining to look at in-day price change
   -  Candlestick chart - if it's a bullish day (up), the bar is green and for a bearish day (down), the bar is red; bar is the space between open and close price
 -------------
-- Timeframes - Monthly, Weekly, Daily, Intrday (most used ones)
+- **Timeframes** - Monthly, Weekly, Daily, Intrday (most used ones)
   - Monthly is used by Investors for long term as you can see the overall trend throguh decades (12 candle bars a year)
   - Weekly is used by Investor or  Positional Traders, it can also give a bit of overall trend (52 candle bars a year)
   - Daily is used by Swing traders (about 252 candles per year)
@@ -38,7 +38,7 @@
   - Lower the time frame, more is the information and the candles
   - Multi timeframe usage to develop a good pov as the trend can be different across the timeframes
 ----------
-- Key Assumptions of Technical Analsysis
+**Key Assumptions of Technical Analsysis**
   - Market discounts everything (before it happens in anticipation of some news)
   - How is more important than why (Technical analysis is reactionary)
   - Price moves in trends
@@ -46,7 +46,7 @@
   - 
   - Hammer pattern (more buying interest insipte of huge selling; usually in short term this means it'll keep growing)
 -----
-- Single Candlestick patterns {NEED TO GO OVER THIS]
+**Single Candlestick patterns** {NEED TO GO OVER THIS]
   - 1. Marubozu (no or little upper and lower shadow, closing or opening prices are average of the last bit of time relative to the time frame being discussed)
       - Bullish - open = low, close = high; green
       - Bearish - open = high, close =  low; red
@@ -59,7 +59,7 @@
   - 3. Shooting Star - Hammer inverted, bearish in an uptrend; small body and long wick upper; ( its a reversal pattern expectation indicator)
        - How to trade? Example, if it goes below the low after then reversal liekly to happend and if price goes above hgih, then shooting star has failed
 ----
-- Multiple Candlestick patterns
+**Multiple Candlestick patterns**
   -  Engulfing pattern (2 candlestick) - reversal pattern indicator, englulfs the previous day body (if also the wick is engulfed, much stronger)
      - Bullish - D2 Open < D1 Cloe, D2 Close > D1 Open, previously bearish
      - Bearish - - D2 Open > D1 Cloe, D2 Close < D1 Open, previously bullish
@@ -68,7 +68,15 @@
    - Dark Cloud Cover (2 candlestick) - bullish pattern ongoing, start market gaps up a bit but bears gain slgiht control but doesn't engulf, a reversal indicator
    - Morning Star (3 candlestick) - prior down trend, first bearish bar, 2nd bar is doji or spinning top, D3 closes above/near D1 open , now bulls in control
    - Evening Star (3 candlestick) - prior up trend, first bullish  bar, 2nd bar is doji or spinning top, D3 closes below/near D1 open , now bears in control
----
+-----
+**Support and Resistance** 
+- Zones of excessive buying and selling with respect to the region before it
+- This works better onn a high timeframe and no need for candlestick pattern here as line chart is good enough
+- Support zone (needs 2 points atleast) is region of buying preference or bulls take over when market hits this region
+- Resistance zone is region of selling preference
+- Breakout if its able to break free from support and resistance zone and rises
+- From the perspectice of a trader, buying and selling decisions can be decided based on support and resistance zones defined
+-----
 
    
 # Tidbits
