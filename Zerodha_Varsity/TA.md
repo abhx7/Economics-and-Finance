@@ -84,7 +84,21 @@
 - Underlay - Relative Strength Indicator (RSI), Moving Average Covergence Divergence (MACDi)
 - Oscillators have overbought (some downward fall next) and overosold (some retracement now) area
 - Moving average
------
+  - Moving average gets  smoother when we take more points
+  - Exponenential moving average - latest price is more relevant, gives running moving average and reacts to atest trends
+  - If price over moving average, market is bullish and if below, market is bearish
+  - IT should be taken for larger time period
+- Moving Average Covergence Divergence (MACD)
+  - Reliable momentum indicator
+  - 12 EMA and 26 EMA are subtracted to get a value for MACD; MACD histogram easier to see trends
+  - 9 EMA line
+  - MACD Crossunder is the 2 lines meet together moving downwards and vice versa
+- Relative Strength Index (RSI)
+  - It's a leading indicator and measures momentum
+  - Overbought (over 70) and oversold (below 30) zones; range of values between 0 to 100
+  - If overbought, we expect it too fall and vice versa
+  - Disadvantage of stickiness, if it becomes overbought/oversold it'll stick to one value at the top and not retrace
+----
    
 # Tidbits
 
