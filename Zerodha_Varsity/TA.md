@@ -77,7 +77,14 @@
 - Breakout if its able to break free from support and resistance zone and rises
 - From the perspectice of a trader, buying and selling decisions can be decided based on support and resistance zones defined
 -----
-
+**Indicators**
+- Why are indicators so popular? Quantitative to nature, Easy to plot
+- Indicator is basically a calculation derived from price based on some hypothesis (near/far from average price, less/more momentum, overbought/oversold)
+- Overlay - Bollinger bands, Moving average
+- Underlay - Relative Strength Indicator (RSI), Moving Average Covergence Divergence (MACDi)
+- Oscillators have overbought (some downward fall next) and overosold (some retracement now) area
+- Moving average
+-----
    
 # Tidbits
 
