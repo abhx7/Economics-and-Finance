@@ -89,7 +89,7 @@
   - If price over moving average, market is bullish and if below, market is bearish
   - IT should be taken for larger time period
 - Moving Average Covergence Divergence (MACD)
-  - Reliable momentum indicator
+  - Reliable momentum indicator; EMA recent data get more weightage than old
   - 12 EMA and 26 EMA are subtracted to get a value for MACD; MACD histogram easier to see trends
   - 9 EMA line
   - MACD Crossunder is the 2 lines meet together moving downwards and vice versa
@@ -112,7 +112,7 @@
   - Will work in Strong Tredning Market
 - Hold on to winners for a long time, try to lose to loosers wuickly; few big winners usually and most of the rest no profit or little loss
 - EMA - Outlook : 9/21 - Daily; 25/50 - Weekly; 50-100 - Monthly; 100/200 - Yearly
-
+  (Key takeaways are important)
 ----  
 # Tidbits
 
