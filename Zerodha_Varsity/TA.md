@@ -99,7 +99,21 @@
   - If overbought, we expect it too fall and vice versa
   - Disadvantage of stickiness, if it becomes overbought/oversold it'll stick to one value at the top and not retrace
 ----
-   
+**Moving Averages (Indicators)**
+- Indicators are nice because htey give numbers upon which buying/selling decision can be taken; we will develop a simple system based on moving average for such buying/selling decisions
+- Use exponential averages MA50 (faster) and MA100 (slower); Buy when MA50 over MA 100 and sell when MA50 dips below MA100; examples in vid are useful to understand
+- CONS
+  - No Stoploss or Target
+  - Won't work as good in Sideways Market
+- PROS
+  - Indicator based
+  - Clear Entry and Exit
+  - Quantified
+  - Will work in Strong Tredning Market
+- Hold on to winners for a long time, try to lose to loosers wuickly; few big winners usually and most of the rest no profit or little loss
+- EMA - Outlook : 9/21 - Daily; 25/50 - Weekly; 50-100 - Monthly; 100/200 - Yearly
+
+----  
 # Tidbits
 
 - What is the Dow Jones Industrial Average?
