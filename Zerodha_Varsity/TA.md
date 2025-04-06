@@ -1,6 +1,6 @@
 # Technical Analysis
 
-# Highlights
+## Highlights
 
 **Introduction to Technical Analysis**
 - Similarities between stock markets crash of 1929 and 2008 - Markets were at an all time high before the crash; DJIA loss
@@ -131,7 +131,7 @@
 - Bring it all together (Refer to Section 19.5 - The Scout)
 ----
 
-# Tidbits
+## Tidbits
 
 - What is the Dow Jones Industrial Average?
 
