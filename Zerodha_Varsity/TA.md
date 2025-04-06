@@ -2,6 +2,7 @@
 
 # Highlights
 
+**Introduction to Technical Analysis**
 - Similarities between stock markets crash of 1929 and 2008 - Markets were at an all time high before the crash; DJIA loss
 - Developing a point of view = Expected reward + Expected holding period + Risk involved + Price to buy and sell stocks (using Technical Analysis)
 - Analysing stocks based on market participant actions and price stock chart = Technical Analysis
@@ -114,6 +115,22 @@
 - EMA - Outlook : 9/21 - Daily; 25/50 - Weekly; 50-100 - Monthly; 100/200 - Yearly
   (Key takeaways are important)
 ----  
+**Your trading checklist**
+- Timeframe selection ( Time frame - Time period)
+  - Intraday - 30 min, 15 min (don't use this as a beginner)
+  - Short Term - Daily
+  - Long Term - Weekly
+- Trader type and their Lookback period (e.g. for Support and Rest Zones) 
+  - Scalper : 3-5 days
+  - Swing : 3 months
+  - Investor : Years
+- Universe (what stocks are you looking for)
+  - How to pick stocks? (good starting point is to restrict to NIFTY50/100
+  - Tradestocks which are liquid and high volume (blue chips)
+  - Don't trade operator driven stocks or low volume stocks or unknown companies
+- Bring it all together (Refer to Section 19.5 - The Scout)
+----
+
 # Tidbits
 
 - What is the Dow Jones Industrial Average?
