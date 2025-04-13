@@ -20,6 +20,16 @@
 - Dont' expect compounding of investments; there is volatility compared to something like fixed deposits (Compounding Effect)
 - Patience is key
 ---
+**How to read the annual report of a company**
+- Download the annual report from investor's section from company's website
+- Useful parts
+  - Management Discussion and Analysis: Business strategy, Growth prospects and Risk that company faces; Know the product segments; Manufacturing companies will have info on plant locations; subsidiaries of the company
+  - Corporate governance
+  - Director's report (skip)
+  - Shareholder information (don't need to see the share prices much)
+  - Consolidated Financial Assesments (read the independent auditors report too)
+- Avoid downloading from 3rd party websites 
+---
 
 
 ---
