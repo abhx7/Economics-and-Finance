@@ -30,7 +30,7 @@
   - Consolidated Financial Assesments (read the independent auditors report too)
 - Avoid downloading from 3rd party websites 
 ---
-**Understanding the P&L statement
+**Understanding the P&L statement**
 - P&L statement is a representation of the company's revenue recognised, expenses, tax they had to pay and profit they took home for that financial year
 - Revenue recognised is usually the top line; Other income comprise of non-operating activities, dividend income, interest income, etc.
 - Associaed note gives more details about what that line item represents; do look at it to udnerstand the nature of revenue/expense generation
