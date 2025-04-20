@@ -39,6 +39,21 @@
 - PAT (Final Profit) = Profit - Tax; also called the bottom line of the company
 - Don't just look at PAT, look at expense and revenue
 ---
+**Understanding balance sheet**
+- Consolidated balance sheet is on a year on year basis, carryover from previous year unlike P&L
+- Assets and Liabilities, Non current and Current for each
+- Assets
+  - Non Current : usually long term economic benefit like property, plant and machinery as well as intangible assets like trademarks and patents, financial investments like government bonds or mutual funds
+  - Current : economic output within a year like inventories (fnished goods to be sold), trade receivables like payments from vendors and customers or loan repayments
+- notice the large line items in assets; dig through them further through associated notes
+- Liabilities
+  - liability in simple terms is a financial obligation of a company 
+  - Non Current : can be fulfilled within a few years
+  - Current : has to be fulfilled within a year
+  - Equity 
+    -  Share Capital : money that the promoters and early investors put into the company
+    -  Reserves and surpluses : profits flowing from P&L statement, this money earmarked by company to use are here
+---
 
 ## Tidbits
 - Foreign Exchange Regulation Act, 1973
