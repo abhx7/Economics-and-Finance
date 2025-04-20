@@ -45,7 +45,7 @@
 - Assets
   - Non Current : usually long term economic benefit like property, plant and machinery as well as intangible assets like trademarks and patents, financial investments like government bonds or mutual funds
   - Current : economic output within a year like inventories (fnished goods to be sold), trade receivables like payments from vendors and customers or loan repayments
-- notice the large line items in assets; dig through them further through associated notes
+  - notice the large line items in assets; dig through them further through associated notes
 - Liabilities
   - liability in simple terms is a financial obligation of a company 
   - Non Current : can be fulfilled within a few years
