@@ -54,6 +54,21 @@
     -  Share Capital : money that the promoters and early investors put into the company
     -  Reserves and surpluses : profits flowing from P&L statement, this money earmarked by company to use are here
 ---
+**The Cash Flow statement**
+- states the cash position of the company
+- to use this, we need to understand the different activities of company; each of these activities either generate or use cash and we get final cash statement by summing these
+  - Operating Activities : good company should be geenrating money from this, for eg manufacture products using input raw materials and sell the finished goods
+  - Investing : all capital expenditure to grow its business like investing in new plants and new machinery
+    - negative/consumes - reinvesting in itself
+    - positive - prolly selling off its assets
+  - Financing : such as borrowing from banks or paying dividends
+    - positive means borrowing fresh capital to fund its working capital or capex
+    - negative is repaying loan or giving out dividends
+- some insights from example
+  - if variable operating activities cost is a red flag
+  - where is money coming from to invest in itself, cost of borrowing (i.e. the interest on borrowing) is more than operating cost than is a red flag
+  - green flag when operating cash is high and stable, part of it is invested and part to dividens; we know its dividends since there is a lot of surplus cash from operations - can look  into this company further
+---
 
 ## Tidbits
 - Foreign Exchange Regulation Act, 1973
