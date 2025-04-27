@@ -55,7 +55,7 @@
     -  Reserves and surpluses : profits flowing from P&L statement, this money earmarked by company to use are here
 ---
 **The Cash Flow statement**
-- states the cash position of the company
+- states the cash position of the company; use it as a starting point of fundamental analysis
 - to use this, we need to understand the different activities of company; each of these activities either generate or use cash and we get final cash statement by summing these
   - Operating Activities : good company should be geenrating money from this, for eg manufacture products using input raw materials and sell the finished goods
   - Investing : all capital expenditure to grow its business like investing in new plants and new machinery
@@ -68,6 +68,15 @@
   - if variable operating activities cost is a red flag
   - where is money coming from to invest in itself, cost of borrowing (i.e. the interest on borrowing) is more than operating cost than is a red flag
   - green flag when operating cash is high and stable, part of it is invested and part to dividens; we know its dividends since there is a lot of surplus cash from operations - can look  into this company further
+---
+**The connection between balance sheet, P&L statement and cash flow statement**
+- all 3 are deeply connected, a quantity in one of the sheets is directly transferred to the other ;should not be looked at in isolation
+  -  P/L  bottom line PAT goes into balance sheet reserves and surplus which is liabilities
+  -  Balance sheet assets cash position comes frm cash flow statement
+  -  P/L has yearly depreicisation which is expense and flows to balance sheet accumulated depreciation
+- P/L look at revenue and identify significant expenses and effective tax rate and PAT
+- Balance sheet look at borrowings and accounts receivable (should not be bloated) and also cash available
+- Cash flow look at balance sheet, investing and financing activities
 ---
 
 ## Tidbits
