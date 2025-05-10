@@ -78,6 +78,22 @@
 - Balance sheet look at borrowings and accounts receivable (should not be bloated) and also cash available
 - Cash flow look at balance sheet, investing and financing activities
 ---
+**Financial ratio analysis**
+- Profitability ratio
+  - Profits help company to expand and pay dividen; also gives sense of competetiveness of management
+  - Operating margins, Profit after tax margins, Return on equity
+    - Operating profit margin ratio
+      - EBITDA 
+- Leverage/Solvency ratio
+  - In context of baalnce sheet, debt the company has taken to run its operations
+  - measures operational efficiency
+  - interest coverage, debt to equity
+- Valuation ratio
+  - compares stock price to valuation of company; to get a sense of how cheap or expensive company stock is
+  - price to sales, price to book, price to equity
+- 
+
+---
 
 ## Tidbits
 - Foreign Exchange Regulation Act, 1973
