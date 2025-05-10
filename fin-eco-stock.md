@@ -1,6 +1,6 @@
-# 📊 Finance, Economics & Stock Market Mastery Roadmap
+# 📊 Finance, Economics & Stock Market
 
-Welcome to the ultimate roadmap for mastering **Finance, Economics, and the Stock Market** — from absolute beginner to expert. This path is structured progressively, blending theory, real-world insight, practice tools, and curated resources. Ideal for self-learners, aspiring investors, traders, or curious minds.
+Welcome to the ultimate resources for mastering **Finance, Economics, and the Stock Market** — from absolute beginner to expert. This path is structured progressively, blending theory, real-world insight, practice tools, and curated resources. Ideal for self-learners, aspiring investors, traders, or curious minds.
 
 ---
 
