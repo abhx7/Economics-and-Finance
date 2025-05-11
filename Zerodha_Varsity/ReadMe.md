@@ -4,6 +4,7 @@
 
 - Intro to Stock Markets
 - Technical Analysis
+- Fundamental Analysis
 
-PDFs, Videos and --?
+PDFs, Videos, Assesments, Certification and a Vibrant community!
 
