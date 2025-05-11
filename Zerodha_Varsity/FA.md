@@ -83,16 +83,55 @@
   - Profits help company to expand and pay dividen; also gives sense of competetiveness of management
   - Operating margins, Profit after tax margins, Return on equity
     - Operating profit margin ratio
-      - EBITDA 
+      - EBITDA is the difference between total income/revenue and total expenses
+      - Operating profit margis is EBITDA by the revenue of the company
+    - PAT margin
+      - PAT number is bottom line (profit after tax) of company
+      - PAT margin is the PAT number divided by total income
+    - ROE margin
+      - helps investor understand the return the shareholder earns for every unit of captial invested
+      - ROE measures the efficiency with which a company egenrates profits from each unit of shareholder's equity
+      - ROE is given by dividing the net profit after tax by shareholder's equity
+      - Debt numbers can skew ROE itself
+  - PAT and EBITDA margins are trending upwards and stable; ROE should be atleast 25%  
 - Leverage/Solvency ratio
   - In context of baalnce sheet, debt the company has taken to run its operations
   - measures operational efficiency
   - interest coverage, debt to equity
+    - Interest Coverage Ratio
+      - determines how efficiently a copany repays interest on its outstanding debt
+      - EBITDA number by Interest obligation or financial costs
+      - higher is better especially when debt on its books
+    - Debt to equity ratio
+      - divide debt by equity
+      - value of one means equal and debt capital
+      - greater than 1 means higher leverage
+      - lower than 1 means a bigger equity base
+    - debt to asset
+    - financial eleverage ratios   
 - Valuation ratio
   - compares stock price to valuation of company; to get a sense of how cheap or expensive company stock is
   - price to sales, price to book, price to equity
-- 
-
+    - Price to Sales ratio
+      - helps compare stock price to company's sale per share
+      - calculated by current share price by sales per share, so calculate sales to share first
+      - if one rupee sale then stock valuation is the price to sale ratio 
+      - needs to be compared to its peers
+      - if prices to sales is high, check if pat margin is also high then it makes sense
+    - Price to Book ratio
+      - calcualted by dividng share price to book value 
+      - high ratio could mean company is overvalued relative to comapny's equity and vice versa
+    - Price to earning ratio (PE)
+      - calculate the earnings per share(EPS) first by dividing PAT by total outstanding shares
+      - divide share price to EPS to get PE ratio
+      - PE ratio basically gives the amount of times the market participants will pay to aquire shares for every unit of profit company make
+      - PE ratio of index gives how cheap or expensive the market is
+- Book value
+  - It is the tangible asset minus the liabilities ; the money left with the company after paying off all its obligation or the money company receives after liquidation
+  - it can be calculated by dividng total equity by total outstanding shares
+- Financial ratios should not be looked at in isolation, always compare it with peers
+- Financial ratios should be one of the factors to look at to base your financial decisions, not the only factor
+- Qualitative and Quantative approach is crucial
 ---
 
 ## Tidbits
