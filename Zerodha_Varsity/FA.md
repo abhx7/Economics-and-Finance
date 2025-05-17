@@ -133,7 +133,28 @@
 - Financial ratios should be one of the factors to look at to base your financial decisions, not the only factor
 - Qualitative and Quantative approach is crucial
 ---
-
+**How to value a company?**
+- Intrinsic valuation
+  - Discounted Caash Flow analysis model (DCF)
+    - Free cash flow
+    - Growth rate of cash flow
+    - Risk
+- Relative value technique (usually used when instrinsic value cannot be applied like when no positive cash flow of company)
+  - Compare 2 companies of same sector using paramters like Cashflow, Price to Sales, Price to Book and Debt to Equity
+- Option based valuation (relatively new technique)
+  - value is unlocked only when a certain event occurs
+---
+**Investing checklist**
+- What to look at before investing in a company
+  - Gross Profit Margin : Ensure atleast 20%; higher the margin, higher is evidence for sustainable moat
+  - Along with Revenue and Gross Profit Margin, look at Earnings per share (EPS) and its growing in line with net profit
+  - Ensure debt level is sustainable
+  - Look at interest coverage ratio if debt exists on baalnce sheet
+  - ROSE of atleast 20-25% , while ensuring debt is manageable
+  - Look at company diversity
+  - Reasonable with expectations
+- The Little Book of Valuation by Aswath Damodaran ; The Little Book that Builds Wealth by Pat Dorsey
+---
 ## Tidbits
 - Foreign Exchange Regulation Act, 1973
 
