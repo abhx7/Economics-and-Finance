@@ -2,6 +2,6 @@
 
 ## Highlights
 
-** Introduction to forwards market**
+**Introduction to forwards market**
 -
 ---
