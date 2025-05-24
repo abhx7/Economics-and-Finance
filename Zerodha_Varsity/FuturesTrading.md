@@ -21,4 +21,12 @@
 - Margin is the percentage of contract size you pay beforehand
 - Underlying is also calld the spot price
 ---
+**Margins**
+- Anyone entering a contract must put up money; this is the reason why brokers charge money to prevent risk of default, usually a percentage of contract
+- Margin is divided into span and exposure; both mandated by stock exchange ; this is calculated (3 times a day) based on volatility
+- Margin has to be maintained by the broker
+- While buying the futures cntract, you need to buy/sell in multiples of minimum lot and the margin required to be put up is shown or you can calculate it on your own
+- Current, middle and far month contracts are usually seen with regards to expiry of contracts
+- Short will have high margin due to high risk and vice versa for long
+---
 ## Technical Tidbits
