@@ -29,4 +29,17 @@
 - Current, middle and far month contracts are usually seen with regards to expiry of contracts
 - Short will have high margin due to high risk and vice versa for long
 ---
+**Leverage and Payoff**
+- Leverage
+  - Buy an asset worth a lot of money, usually asset is being made (like a building on plot), some margin(lets say 10 lakhs) is paid to the builder to block the plot, if asset value (initially lets say 1cr) grows, some other buyer may approach you to buy it for a higher amount (lets say 1.2 cr), that would give a great profit (so 100% profit, as 20 lakh profit on 10 lakh margin put up)
+  - small amount of money to controla  much larger asset, all profit loss calculated on actual asset value and not on the margin put up, so the return on investmnets could be very high
+  - in context of stock, lets take an example of contract value 10 lakh and margin of 1 lakh, leverage is calculated using contract value by margin, so here it is 10x. every unit movement in underlying, the movement is profit and loss is that times.
+  - 1/levreage will tell that amount of movement against your position will wipe out your entire margin
+  - stay away your leverage if you are a beginner
+- Payoff
+  - visual representation of when you break even, make a profit or loss
+  - futrues payoff structure is linear; non linear are possible for other investment types
+  - long futures and short futures are mirror images
+  - futures investment are zero-sum game, one person's gain is another persons' loss
+---
 ## Technical Tidbits
