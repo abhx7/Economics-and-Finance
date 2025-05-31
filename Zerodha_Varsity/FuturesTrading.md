@@ -42,4 +42,12 @@
   - long futures and short futures are mirror images
   - futures investment are zero-sum game, one person's gain is another persons' loss
 ---
+**Futures trade**
+- Futures need to be enabled in account as it's a seperate segment on stock exchange
+- Actually simple - add to watchlist and buy
+- you should actually have some excess of margin amount when making futures treade
+- Order won't execute unless it matches with someones sell order, so you cant still modify your order based on mamrket dept
+- Live P&L is shown once order is executed; Average Price - Last Traded Price - Profit; so, Profit x Quantity = Mark to Market (P&L)
+- In Overnight position of M2M, there's a daily M2M profit or loss which gets debited or credited unlike intra-day position. Also overnight position also requires excess other than margin.
+---
 ## Technical Tidbits
