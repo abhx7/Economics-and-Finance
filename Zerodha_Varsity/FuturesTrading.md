@@ -50,4 +50,15 @@
 - Live P&L is shown once order is executed; Average Price - Last Traded Price - Profit; so, Profit x Quantity = Mark to Market (P&L)
 - In Overnight position of M2M, there's a daily M2M profit or loss which gets debited or credited unlike intra-day position. Also overnight position also requires excess other than margin.
 ---
+**Setllement**
+- Settlement occurs after expiry of contract when buyer and seller fulfill their obligations and transaction occurs
+- Physical settlement that happenned earlier is like buying gold by giving money discussed earlier in the module
+- Setllement price is closing price on expiry date, like of share price on that day
+- Margin keeps increaing closer to expiry date as its nearing physical delivery and goes beyond span and exposure (varsity notes heck)
+- Physical settlements happens only in stock not indices
+- You should have the money(stock futures)  or have the shares (short futures) depending on if buyer or seller near the expiry date or you should exit your position
+- Cash settlement is only money transaction and no exchange of underlying; for e.g., one person is long a company's stock and the other person, the short seller has to pay you if settlement price is higher than original 
+- Index derivatives are cash settles
+- Usually exit before expiry cuz traders usually dont have the stocks or moneys, so no hassle to worry about settlements
+---
 ## Technical Tidbits
