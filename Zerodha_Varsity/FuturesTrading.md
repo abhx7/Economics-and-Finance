@@ -1,4 +1,4 @@
-# Futures Trading
+ # Futures Trading
 
 ## Highlights
 
@@ -60,5 +60,14 @@
 - Cash settlement is only money transaction and no exchange of underlying; for e.g., one person is long a company's stock and the other person, the short seller has to pay you if settlement price is higher than original 
 - Index derivatives are cash settles
 - Usually exit before expiry cuz traders usually dont have the stocks or moneys, so no hassle to worry about settlements
+---
+**Open Interest**
+- an example, ine one contract person A wants to go long and person B want to short, similarly another person C wants to go long so another contract; currently OI is 2 and volume is 2; if one sells, then OI decreases but volume increases (square off = transaction occurs)
+- more positions created OI Buid up, if people exit their positions then OI Unwindining
+- OI increases or decrease and Volume only increases, counting starts at start of day
+- There is a limit of number of contracts that can exist in any security, once it hit 95% of that limit (Market Wide Position Limit) ; the exchange does not allow any new contracts called contract ban period but exisiting players can exit positions
+- Exchange lists what companies are under a ban period at that time
+- Circuits (or Dynamic Price range) are price bands set up to prevent large movements in a single day
+- Halt trading for 15min (cooling period) if 10% movement occurs, next price range/circuit 5% then again a cooling of period is there and then resumes
 ---
 ## Technical Tidbits
