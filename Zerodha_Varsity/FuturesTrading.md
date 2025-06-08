@@ -70,4 +70,11 @@
 - Circuits (or Dynamic Price range) are price bands set up to prevent large movements in a single day
 - Halt trading for 15min (cooling period) if 10% movement occurs, next price range/circuit 5% then again a cooling of period is there and then resumes
 ---
+**Shorting futures**
+- Shorting means sell first and buy back later at a lower price; so we expect market to drop and try to profit from that
+- In contract one person buys in a long position hoping for market to rise and the other person buys in a short position hoping market to fall, the difference (profit/loss) is paid by one person to the other in the contract
+- Creating a long position by buying share, when we exit the position we do that by selling/square-off
+- Creating fresh sell position is shorting, to exit this we call it squaring off
+- open position is closed when transaction is done
+---
 ## Technical Tidbits
