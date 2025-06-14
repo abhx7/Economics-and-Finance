@@ -77,4 +77,9 @@
 - Creating fresh sell position is shorting, to exit this we call it squaring off
 - open position is closed when transaction is done
 ---
+**Overview of Contracts**
+- All structures of underlying (indices/commodity/currency/stock futures) are same - lot size, margin, leverage and expiry
+- For e.g., in NIFTY Futures we see we can buy in multiples of lot size, we can see margin, we cann see high oi shows how liquid this contract is, contract size is pretty big compared to margin so high leverage
+- some other examples talked in video; currency is very high leverage because change is not very high due to it being reltaively stable; commodity futures has leverage similar to indices it seems
+---
 ## Technical Tidbits
