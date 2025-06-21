@@ -7,6 +7,16 @@
 - While trading options, a buyer pays a small amount of money (premium) to controls a large amount of position
 - Timing, speed and direction of the trade needs to be right in order to make money
 ---
+**Options Jargons**
+- For example,  SBIN OCT 460 CE
+  - stock under consideration or underlying  (SBI)
+  - expiry, is last Thursday of the month
+  - strike price is price that deal would be made on settlement day
+  - option type  is call (CE is European)
+  - premium (Rs 17.75)
+  - lot size
+- Risk? Worst Case Scenario? Break Even Point? Maximum Gain?
+---
 
 
 ## FAQ
