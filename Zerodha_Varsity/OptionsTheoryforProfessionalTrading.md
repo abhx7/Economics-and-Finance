@@ -17,6 +17,14 @@
   - lot size
 - Risk? Worst Case Scenario? Break Even Point? Maximum Gain?
 ---
+**Long Call Payoff and Short Call Trade**
+- profitability of a call option for a buyer and seller
+- 3 cases to consider - stock price rallies, remains the same and declines
+- Stock price rallies is only situation for profit, if price remains same or declines, buyer will lose the premium paid and will be in a loss
+- Buy call option when you are bullish on the underlying until expiry
+- Long call payoff chart, max loss is restricted to premium paid, breaking point is when there is no loss or profit (= strike pric + premium paid)
+- max loss of buyer is max profit, but breaking point stay same; the payoff chart is inverted so loss can keep on increasing if price drops for seller
+---
 
 
 ## FAQ
