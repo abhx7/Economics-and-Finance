@@ -25,6 +25,14 @@
 - Long call payoff chart, max loss is restricted to premium paid, breaking point is when there is no loss or profit (= strike pric + premium paid)
 - max loss of buyer is max profit, but breaking point stay same; the payoff chart is inverted so loss can keep on increasing if price drops for seller
 ---
-
+**Put Buy and Put Sell**
+- to have the right to sell a stock at a higher price than market price is called put option buyer
+- if market price decreases, realised profit is strike price minus current price, after removing premium from this is net profit
+- if market price increases, we let go off the right to sell but also lose the premium paid
+- if market price stays flat, no sense in exercising right so we walk away and loose the premium
+- hence, you make money is market falls and lose money is it stays flat or increases; keeping expiry in perspective
+- payoff structure for put option buyer payoff shows loss is restricted to the premium paid; similarly for put option seller payoff is inverted/upside-down
+- break even point for buyer is fall in market price should be equal to premium paid and for seller is the same but market should increase
+---
 
 ## FAQ
