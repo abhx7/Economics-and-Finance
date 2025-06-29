@@ -34,7 +34,7 @@
 - payoff structure for put option buyer payoff shows loss is restricted to the premium paid; similarly for put option seller payoff is inverted/upside-down
 - break even point for buyer is fall in market price should be equal to premium paid and for seller is the same but market should increase
 ---
-**Summarizing Call and Put Options
+**Summarizing Call and Put Options**
 - Buy a call option or sell a put option when your POV is bullish and buy a put option ot sell a call option when your POV is bearish
 - options selling margin (similar to futures margin) is span + exposure
 - options are pretty complicated
