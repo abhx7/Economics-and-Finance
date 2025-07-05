@@ -41,5 +41,16 @@
 - options you can exit as when you want to; premium changes with time along with underlying so exit as and when you decide is appropriate
 - who sets the premium? which strike prace to trade? what are the influences that drive the premium?
 ---
+**Moneyness of option**
+- Moneyness of option indicates how an option by expiry will end up in a favourable outcome to the buyer
+- For Call option buyer favourable, it is price of underlying should increase
+- For Put option buyer favourable, it  is price of underlying should decrease
+- Look at all strike prices available to trade from the " " sheet and the last traded price
+- At the money (ATM) option means it is favourable to call option buyer when strik price is same as underlying price at the current time , not expiry
+- In the money (ITM) option means it is favourable to call option buyer when strik price is above underlying price at the current time , not expiry
+- Out of  the money (OTM) option means it is not favourable to call option buyer when strik price is below underlying price at the current time , not expiry
+- Option chain is the sheet for call option, same thing for put
+- ITM has higher premium than others and activtiy is higher at ATM, regardless of call or put
+---
 
 ## FAQ
