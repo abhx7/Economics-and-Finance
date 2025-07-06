@@ -52,5 +52,24 @@
 - Option chain is the sheet for call option, same thing for put
 - ITM has higher premium than others and activtiy is higher at ATM, regardless of call or put
 ---
+**The Option Greeks - Delta**
+- Factors that influence the premium of an option are option greeks (gamma, delta, vega, theta)
+- if underlying price increases, premium also increases and if underlying decreases than put option premium increases.
+- load few option strikes and observe how premium changes with underlying prices
+- delta of an option helps us understand the likely change in premium wrt underlying; varies from 0 to 1 for call option and -1 to 0 for put option
+- cheatsheat for delta
+  - call
+    - OTM : 0 to 0.5
+    - ATM : 0.5
+    - ITM : 0.5 to 1
+  - put
+    - ITM : - 0.5 to -1
+    - ATM : - 0.5
+    - OTM : - 0.5 to 0
+- use delta to evaluate the probability of a strike expiring in the money
+- choose option that has low delta for call option so that u can pocket your entire premium buyer paid (go back to vid and lectures; explain more in detail)
+- same company if you have long and call, you can add the delta for total delta
+- what makes the delta move?
+---
 
 ## FAQ
