@@ -71,5 +71,13 @@
 - same company if you have long and call, you can add the delta for total delta
 - what makes the delta move?
 ---
+**Gamma**
+- retail trader does not need gamma
+- gamma is the rate of change of delta wrt rate of change of underlying of option; it is also called the curvature of an option
+- usually expressed in term of deltas gained or lost per point change in the underlying
+- review the example again
+- gamma is highest at ATM option so rapid and high change in delta but is slow and low for ITM or OTM options
+- never short ITM and ATM in expectation of otpions expiring worthless; but always choose an OTM option to sell
+---
 
 ## FAQ
