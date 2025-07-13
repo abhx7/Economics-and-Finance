@@ -77,7 +77,17 @@
 - usually expressed in term of deltas gained or lost per point change in the underlying
 - review the example again
 - gamma is highest at ATM option so rapid and high change in delta but is slow and low for ITM or OTM options
-- never short ITM and ATM in expectation of otpions expiring worthless; but always choose an OTM option to sell
+- never short ITM and ATM in expectation of otpions expiring worthless; but always choose an OTM option to sell'
 ---
+**Theta**
+- more time means higher chance of something happening in that time
+- transition from OTM to ATM to ITM of an option is likelier with more time
+- high premium for high expiry time and vice versa due to risk/chance factor; this is based on expectation of option sellers
+- theta is rate of change of premium wrt time
+- try to break down valaue of an option into intrisic value and time value
+- difference between spot and strike is what you will relise if you exercise the option right now, this is intrinsic value; the remaning from premium is time value
+- theta increases closer to expiry; so its referred to as a deprecciating asset; always works in favour of seller and against the seller
+---
+
 
 ## FAQ
