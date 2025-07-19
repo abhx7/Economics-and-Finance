@@ -88,6 +88,13 @@
 - difference between spot and strike is what you will relise if you exercise the option right now, this is intrinsic value; the remaning from premium is time value
 - theta increases closer to expiry; so its referred to as a deprecciating asset; always works in favour of seller and against the seller
 ---
+**Vega**
+- Read chapters to understand volatility
+- volatility is like speed at which stock price is rising, so high volatility means that stock might expire ITM so higher premium and vice vera
+- rate of change of premium wrt change in volatility is captured by vega of an option
+- as an option seller you want to sell it when volatility high and should decrease after selling and vice versa for an option buyer
+- all these options greeks act simultanesously so it is a complex phenomenon
+---
 
 
 ## FAQ
