@@ -95,6 +95,15 @@
 - as an option seller you want to sell it when volatility high and should decrease after selling and vice versa for an option buyer
 - all these options greeks act simultanesously so it is a complex phenomenon
 ---
+**Margins**
+- Options M2M and P&L calculation
+- For buying Options, you pay premium equal to lot size into premium into lots you want to buy
+- For selling options, you need to pay a margin and it is released when you square off; margin is higher with higher risk
+- volatility is also a measure of risk so high volatility means higher margin required
+- margin can be altered by reducing risk of portfolio for example if going long in one stock and if it decreases then also have a put option buy to offset the loss, if the reverse happens the maximum loss through put option is the premium but lots of profit for sell/long option
+- options strategies or spreads
+---
+
 
 
 ## FAQ
