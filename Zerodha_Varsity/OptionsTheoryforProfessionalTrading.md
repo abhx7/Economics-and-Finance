@@ -103,6 +103,17 @@
 - margin can be altered by reducing risk of portfolio for example if going long in one stock and if it decreases then also have a put option buy to offset the loss, if the reverse happens the maximum loss through put option is the premium but lots of profit for sell/long option
 - options strategies or spreads
 ---
+**Physical settlement of futures and options**
+- all itm are subjected to physical settlement
+- implies give or take of delivery of stocks
+- market conditions call will have long call or short call and same for put; itm call long and itm put short you have to take delivery of stock and for itm call short and itm put long you have to give delivery of stock
+- option buyer should have enough money to buy the stock and the seller should have enough stocks to sell
+-  margin requirements towards the end of the expiry increases in case the trader has stock option position
+-  make sure you buy the stocks 2 days prior to the expiry
+-  stock options are physically setlled, index options are cash setlled
+-  brokers charge a brokerage on physical delivery
+-  offsetting a position, when net obligation are zero so no physical setllement (read details)
+---
 
 
 
