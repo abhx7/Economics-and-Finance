@@ -114,6 +114,13 @@
 -  brokers charge a brokerage on physical delivery
 -  offsetting a position, when net obligation are zero so no physical setllement (read details)
 ---
+**Bull call spread**
+- a naked option position, carries an extreme amount of overnight risk
+- spreads are usually multi legged options strategies involving 2 or more options contracts
+- bull call spread is executed when you are moderately bullish on a stock/index in which we buy a atm call option (first leg) and sell otm call option (second leg); same underlying and same expiry
+- difference between the strikes is called spread, bull call spread usually results in net debit
+- irrespective of up and down of market, we can visualise maximum losses or gains in the bull call spread 
+---
 
 
 
