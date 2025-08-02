@@ -1,5 +1,7 @@
 # Options Theory for Professional Trading
 
+## Video Summaries 
+
 **Introduction to Options**
 - Price can move in 3 ways - increase, decrease or stay the same
 - In example, person A pays a non refundable fee person B bounding him to an obligation of selling the land in 6 months time if he decides to buy it (if the road project happens, land becomes more valuable) ; if land price increases, he will want to buy at decided price; if price decreases, he will not buy it and forfeits the premium paid; if price doesnt change, he will not buy and again premium paid is a profit to buyer; this is exactly
@@ -119,9 +121,16 @@
 - spreads are usually multi legged options strategies involving 2 or more options contracts
 - bull call spread is executed when you are moderately bullish on a stock/index in which we buy a atm call option (first leg) and sell otm call option (second leg); same underlying and same expiry
 - difference between the strikes is called spread, bull call spread usually results in net debit
-- irrespective of up and down of market, we can visualise maximum losses or gains in the bull call spread 
+- irrespective of up and down of market, we can visualise maximum losses or gains in the bull call spread
 ---
-
-
+**The Straddle**
+- delta neutral option strategies is where you set up a trade which is independent of movement of stock
+- simplest form is long straddle
+- in long straddle, you buy equal number ATM call and ATM put options for same underlying and same expiry; if stock price increases than call makes money and if stoc price decreases put makes money, hence overall delta is zero
+- a v shaped graph for this combined strategy; it shows there is always a profit if there is a movement but we will lose all premium if no movement
+- theta works against option buyer and volatility can also work against you
+- short a straddle, sell atm call and put option in case there is volatility so high premium
+- other strategies like iron condor, iro butterfly, logn strangle and short strangle (explained in detail in module)
+---
 
 ## FAQ
