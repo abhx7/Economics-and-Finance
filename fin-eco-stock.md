@@ -62,6 +62,7 @@ Welcome to the ultimate resources for mastering **Finance, Economics, and the St
 🔗 Resources:
 - [Varsity by Zerodha - Market Basics](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
 - [NSE India - Beginner's Guide](https://www.nseindia.com/learn/learn-to-invest)
+- [Stock Markets Intro](https://www.youtube.com/watch?v=IcvW2jIYGjM)
 
 ---
 
